@@ -31,3 +31,4 @@ public class SaudacaoController {
 				String.format(template, saudacaoConfig.getSaudacao(), nome));
 	}
 }
+
